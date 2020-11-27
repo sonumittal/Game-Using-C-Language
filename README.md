@@ -1,1 +1,1 @@
-This is a basic catching some pointers at some position game written in C language. felt love with coding and more confidence when I was learning C language because all code is created by my own creativity and mind.
+This is a basic catching some pointers at some position game written in C language. felt love with coding and more confidence during learning C language because all code is created by my own creativity and mind.
